@@ -4,7 +4,7 @@
 This report presents key findings and strategic recommendations derived from SQL analysis of the Online Bookstore database, covering 500 books, 500 customers, and 500 orders. 
 Total revenue stands at $75,628.66 across all transactions, with a healthy inventory of 25,056 units in stock.
 
-### click here to details Insights & Recommendations: [Bookstore_Insights_Report.pdf](https://github.com/user-attachments/files/25577919/Bookstore_Insights_Report.pdf)
+### Click here for details. (Insights & Recommendations): [Bookstore_Insights_Report.pdf](https://github.com/user-attachments/files/25577919/Bookstore_Insights_Report.pdf)
 
 
 
